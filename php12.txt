@@ -2,3 +2,4 @@
 add: Đăng ký thay đổi trong index
 add: Đăng ký thay đổi trong index
 commit: luu lai trang thai commit
+pull: Lấy nội dung của remote repository
